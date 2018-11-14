@@ -1,10 +1,10 @@
 # WEEK 7
 OPDRACHT 1
 
-openssl_private_encrypt
-openssl_public_encrypt
-Sodium::crypto_secretbox()
-UnsafeCrypto::encrypt()
+1.openssl_private_encrypt
+2.openssl_public_encrypt
+3.Sodium::crypto_secretbox()
+4.UnsafeCrypto::encrypt()
 
 Opdracht 2
 
