@@ -6,10 +6,10 @@
 1. UnsafeCrypto::encrypt()
 
 ## Opdracht 2
-Het maximum aantal bytes RSA can encrypt is 245 bytes
+Het maximum aantal bytes is 245 bytes
 
 ## Opdracht 3
-1. Ik gebruik op het moment nog username en password. Maar binnenkort ga ik over op SSH keys
+1. Ik gebruik op het moment nog gebruikersnaam en wachtwoord. Maar binnenkort ga ik over op SSH keys
 1. Om ervoor te zorgen dat je kan committen
 
 ## Opdracht 4
